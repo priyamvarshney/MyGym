@@ -1,0 +1,11 @@
+{
+    "require": {
+        "paytm/paytmchecksum": "^1.0"
+    },
+
+    "autoload": {
+   	"psr-4": {
+    "paytm//paytmchecksum//": "paytmchecksum/"
+    	}
+	}
+}
